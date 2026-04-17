@@ -26,4 +26,4 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 Andreas version of Boot.dev's Notely app
 New text for new merge
-New Merge
+New Merge 2
